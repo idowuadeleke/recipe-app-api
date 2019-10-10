@@ -1,4 +1,4 @@
-FROM python3.7-alphine
+FROM python:3.7-alpine
 MAINTAINER Idowu Adeleke
 
 ENV PYTHONUNBUFFERED 1
